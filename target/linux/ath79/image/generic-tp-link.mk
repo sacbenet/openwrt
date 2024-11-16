@@ -832,6 +832,7 @@ TARGET_DEVICES += tplink_tl-wr842n-v3
 define Device/tplink_tl-wr886n-v2
   $(Device/tplink-8mlzma)
   SOC := tp9343
+  IMAGE_SIZE := 15104k
   DEVICE_MODEL := TL-WR886N
   DEVICE_VARIANT := v2
   TPLINK_HWID := 0x08860002
