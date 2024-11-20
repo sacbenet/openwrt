@@ -1,4 +1,4 @@
-
+tttttttttttttttttttttttttttttttttttt
 . /lib/functions/system.sh
 . /lib/functions/uci-defaults.sh
 . /lib/functions/k2t.sh
@@ -497,7 +497,7 @@ ath79_setup_interfaces()
 		;;
 	tplink,tl-wr841hp-v2|\
 	tplink,tl-wr842n-v2|\
-	tplink,tl-wr886n-v2|\
+	tplink,tl-wr886n-v5|\
 	tplink,tl-wr941hp-v1)
 		ucidef_set_interface_wan "eth1"
 		ucidef_add_switch "switch0" \
