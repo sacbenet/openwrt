@@ -1,4 +1,4 @@
-ttttttttttttttttttttttttttttt
+
 . /lib/functions/uci-defaults.sh
 
 board_config_update
