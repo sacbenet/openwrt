@@ -1,4 +1,4 @@
-tttttttttttttttttttttttttttttttttttt
+
 . /lib/functions/system.sh
 . /lib/functions/uci-defaults.sh
 . /lib/functions/k2t.sh
